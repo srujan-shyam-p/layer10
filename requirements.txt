@@ -1,7 +1,8 @@
 pandas
-groq
 pydantic
-instructor
-python-dotenv
-SQLAlchemy
+langchain
+langchain-groq
+langgraph
+neo4j
 thefuzz
+python-dotenv
