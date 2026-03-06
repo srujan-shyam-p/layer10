@@ -1,0 +1,10 @@
+# Environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (we will generate this locally, no need to track every change yet)
+*.db
