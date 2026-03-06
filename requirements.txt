@@ -1,0 +1,7 @@
+pandas
+groq
+pydantic
+instructor
+python-dotenv
+SQLAlchemy
+thefuzz
